@@ -82,46 +82,6 @@ The Streamlit app allows users to:
 * Select product category
 * Generate demand predictions instantly
 
----
-
-## Project Structure
-
-```text
-Demand-Forecasting-Project/
-│
-├── app.py
-├── machine_learning.ipynb
-├── demand_forecasting.csv
-├── xgboost_demand_model.pkl
-├── label_encoders.pkl
-├── requirements.txt
-└── README.md
-```
-
----
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/demand-forecasting-project.git
-cd demand-forecasting-project
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit application:
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## Learning Outcomes
 
