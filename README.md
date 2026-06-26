@@ -99,6 +99,6 @@ Through this project, I gained experience in:
 
 ## Author
 
-Shreya Suriya
+Shreeya Suriyakumar
 
 Aspiring Data Scientist | Python | Machine Learning | Data Analytics
